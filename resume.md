@@ -1,60 +1,60 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 简介
+subtitle: 可爱的人
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 以PDF格式下载</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 技能
+``` 七十二变 ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### 项目
+**标题** - 描述 - 地点 <span style="float: right; ">时间跨度</span>  
+你去乾坤四海问一问，我是古往今来第一妖。  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**标题** - 描述 - 地点 <span style="float: right; ">时间跨度</span>  
+天地不全，经书哪有齐全之理？ 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**标题** - 描述 - 地点 <span style="float: right; ">时间跨度</span>  
+言而无信，不知其可。 
 
-### EDUCATION
+### 教育
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+研究所 <span style="float: right; ">持续时间</span>  
+**航向**  
+教师并非教书，而是教育学生。
+----- 叶圣陶  
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+研究所 <span style="float: right; ">持续时间</span>  
+**航向**  
+品德教育重在实做，不在于能说会道。
+----- 叶圣陶  
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+研究所 <span style="float: right; ">持续时间</span>  
+**航向**  
+读书忌死读，死读钻牛角。
+----- 叶圣陶 
 
-### EXPERIENCE
+### 经验
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
+标题 - **佚名** <span style="float: right; ">持续时间</span>  
+_如果感觉累了，你可以倾诉，但请不要抱怨。
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+标题 - **佚名** <span style="float: right; ">持续时间</span>  
+_众里寻她心似欢。茫茫人海独归处。登高山。徒远路。巧遇妙佳人。凭阑珊。望归路。佳人终已己。梦里思。心中想。人生之路不孤单。愿有岁月可回首。且以白头共余生。
+佚名
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+标题 - **佚名** <span style="float: right; ">持续时间</span>  
+_每一次恋爱都是将初恋的过程再来一次，只是这一次有了经验，手段。
 
 
-### RECOGNITION & INTERESTS
+### 承认与利益
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- 白花公子(Etiam Luctus Ante Quis Est Dictum Faucibus)。
+- 白花公子(Etiam Luctus Ante Quis Est Dictum Faucibus)。
+- 白花公子(Etiam Luctus Ante Quis Est Dictum Faucibus)。
+- 白花公子(Etiam Luctus Ante Quis Est Dictum Faucibus)。
+- 白花公子(Etiam Luctus Ante Quis Est Dictum Faucibus)。
+- 白花公子(Etiam Luctus Ante Quis Est Dictum Faucibus)。
