@@ -1,7 +1,7 @@
 ---
-layout: 页
-title: 你好
-subtitle: My name is suqingyuy
+layout: page
+title: 你好 世界
+subtitle: 我还是个孩子
 sitemap:
   priority: 0.9
 ---
