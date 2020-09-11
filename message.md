@@ -3,7 +3,8 @@ layout: self
 title: 你好 世界
 subtitle: 我还是个孩子
 sitemap:
-  priority: 0.9
+priority: 0.9
+liziyue: 大帅哥
 ---
 
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
